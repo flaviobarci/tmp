@@ -1,0 +1,11 @@
+{
+	"id": "change-plugin",
+	"name": "Change Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "",
+	"author": "Flavio Barci",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
